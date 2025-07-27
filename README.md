@@ -11,7 +11,7 @@
 ```javascript
 kauã = {
     programming_languages: ['C/C++', 'Python', 'JavaScript'],
-    interests: ['Data Engineering', 'Computational Geometry', 'Competitive Programming'],
+    interests: ['Data Engineering', 'Math', 'Competitive Programming'],
 }
 ```
 ### GitHub Stats
