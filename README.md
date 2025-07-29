@@ -4,7 +4,7 @@
 
     
 
-[![Linkedin: Kauã Oliveira](https://img.shields.io/badge/-Kaua%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaua-carvalho-4b198a222/)](https://www.linkedin.com/in/kaua-carvalho-4b198a222/) [![GitHub Kauã](https://img.shields.io/github/followers/erasedmyself?label=follow&style=social)](https://github.com/erasedmyself)
+[![Linkedin: Kauã Oliveira](https://img.shields.io/badge/-Kaua%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaua-carvalho-4b198a222/)](https://www.linkedin.com/in/kaua-carvalho-4b198a222/) [![GitHub Kauã](https://img.shields.io/github/followers/erasedmyself?label=follow&style=social)](https://github.com/kauacarv1)
 
 ### About me
 
@@ -16,7 +16,7 @@ kauã = {
 ```
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=erasedmyself&show_icons=true&count_private=true&hide_border=true&theme=radical&title_color=39d5ff&text_color=39d5ff" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=kauacarv1&show_icons=true&count_private=true&hide_border=true&theme=radical&title_color=39d5ff&text_color=39d5ff" align="center" />
 
 ### My Skills
 
