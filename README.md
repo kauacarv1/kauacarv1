@@ -4,7 +4,7 @@
 
     
 
-[![Linkedin: Kauã Oliveira](https://img.shields.io/badge/-Kaua%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaua-carvalho-4b198a222/)](https://www.linkedin.com/in/kaua-carvalho-4b198a222/) [![GitHub Kauã](https://img.shields.io/github/followers/erasedmyself?label=follow&style=social)](https://github.com/kauacarv1)
+[![Linkedin: Kauã Oliveira](https://img.shields.io/badge/-Kaua%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauã-oliveira-4b198a222/)](https://www.linkedin.com/in/kauã-oliveira-4b198a222/) [![GitHub Kauã](https://img.shields.io/github/followers/kauacarv1?label=follow&style=social)](https://github.com/kauacarv1)
 
 ### About me
 
